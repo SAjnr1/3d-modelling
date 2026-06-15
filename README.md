@@ -22,6 +22,8 @@ Using Onshape and a 2D image of the original logo as a reference, I made the des
 5. A safety helmet symbolizing professionalism and safety
 6. A digital display element representing innovation and design
 
+The design has a total length of 12.7cm, total breadth of 12.7cm and a total width or heigth of 2.6cm
+ 
 The final model is suitable for 3D printing and can be scaled for different applications such as plaques, keychains, awards, or display pieces.
 
 Applications Used:
